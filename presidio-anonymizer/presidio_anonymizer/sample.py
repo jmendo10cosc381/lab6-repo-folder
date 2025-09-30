@@ -31,7 +31,7 @@ def sample_run_anonymizer(t,s,e):
     # ]
 
 if __name__ == "__main__": 
-    text=input("text: ")
-    start=int(input("start: "))
-    end=int(input("end: "))
+    text="My name is Bond"
+    start=11
+    end=15
     sample_run_anonymizer(text,start,end);
