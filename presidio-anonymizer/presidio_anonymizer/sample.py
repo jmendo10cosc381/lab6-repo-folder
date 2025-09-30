@@ -16,6 +16,7 @@ def sample_run_anonymizer(t,s,e):
     )
 
     print(result)
+    return result
 
     # input should be:
     # text: My name is Bond.
